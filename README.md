@@ -4,7 +4,7 @@
 
 Maak een database aan door gebruik te maken van de library tinyDB (doe hier opzoekwerk over hoe je deze gebruikt). 
 
-De database gaat gebruikt worden om nieuwe boeken die zijn aangekocht door de bib in een database te steke. 
+De database gaat gebruikt worden om nieuwe boeken die zijn aangekocht door de bib in een database te steken. 
 Maar ook boeken verwijderen omdat ze te oud zijn.
 
 ### 1. Maak een database aan genaamd boeken
@@ -35,3 +35,16 @@ Voeg het boek Oorlogswinter toe met auteur Jan Terlouw en omschrijving 'Oorlogs 
 ### 4. Boek verwijderen
 
 Verwijder het boek Oorlogswinter.
+
+
+## Python Opdracht 2 (Leren werken met ccxt)
+
+Maak api keys aan voor je binance account (opzoeken indien nodig) en haal data op met deze api keys doormiddel van ccxt.
+
+Installeer ccxt met pip
+
+Print elke halve seconde de OHLCV met de library ccxt (candle waarden) af voor BTC/USDT van Binance Futures (verschil tussen binance en binance futures).
+
+Tips:
+- Maak gebruik van de wiki pagina op de github pagina van ccxt
+- Je kan ook zoeken in de issues bijvoorbeeld wanneer je iets niet vind in de wiki. Hier kan je meestal specifieke antwoorden vinden zoals hoe je kan gebruik maken van binance futures ipv binance (hier posten mensen hun problemen / mogelijke bugs / vragen / ...).
