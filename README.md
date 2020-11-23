@@ -23,8 +23,8 @@ Voeg nu dit nieuw boek toe aan de database
 #### r -> verwijder een boek
 Als de gebruiker 'i' heeft gekozen toon je 1 input velden waar hij de naam van het boek kan ingeven doormiddel van deze naam gaan we dit boek uit de database wissen
 
-Voeg nu dit nieuw boek toe aan de database
-(tip: insert)
+Verwijder dit boek nu uit de database
+(tip: delete)
 
 
 
