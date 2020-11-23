@@ -43,7 +43,7 @@ Maak api keys aan voor je binance account (opzoeken indien nodig) en haal data o
 
 Installeer ccxt met pip
 
-Print elke halve seconde de OHLCV met de library ccxt (candle waarden) af voor BTC/USDT van Binance Futures (verschil tussen binance en binance futures).
+Print elke halve seconde de OHLCV data met de library ccxt (candle waarden) af voor BTC/USDT van Binance Futures (verschil tussen binance en binance futures).
 
 Tips:
 - Maak gebruik van de wiki pagina op de github pagina van ccxt
