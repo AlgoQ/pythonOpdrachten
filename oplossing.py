@@ -17,6 +17,11 @@ while True:
 
 
 
+
+
+
+
+
     if result == 'i':
         x = input('naam boek?: ')
         y = input('naam auteur?: ')
@@ -31,7 +36,7 @@ while True:
     else:
         print('pick i of r')
         continue
-
+    
 
 
 

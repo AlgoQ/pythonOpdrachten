@@ -9,6 +9,7 @@ Boek = Query()
 #hier voeg je boeken toe of verwijdert men boeken
 while True:
     result  = input("kies i of r (c om te sluiten): ")
+    
 
     if result == 'i':
         naam_boek = input('naam boek?: ')
@@ -33,3 +34,18 @@ while True:
     
     else:
         print('pick i of r')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
